@@ -60,5 +60,3 @@ citra_biner(50)
 citra_biner(128)
 citra_biner(200)
 ```
-
-This README section walks a beginner through each step of the `citra_biner` function, from loading the image to saving the binarized output.
