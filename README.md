@@ -1,5 +1,3 @@
-# Binary-Image
-
 ## Workflow of the `Binary Image` Function
 
 1. **Load and Convert the Image**
